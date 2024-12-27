@@ -18,9 +18,12 @@
    ![image](https://github.com/user-attachments/assets/112c3dde-53b2-43da-9256-520b422e61b9)
    只有做到了如上，我们的外设库函数才能使用
    ![image](https://github.com/user-attachments/assets/654a9201-6c9a-42f1-8239-4f715adece33)
+7. 步骤总结
+   ![image](https://github.com/user-attachments/assets/687b22a4-6878-45c7-a27f-28b56644c546)
 
 现在我们就添加完成了库函数，有了库函数，我们就不需要配置寄存器的方式来写代码了。下面第一个图是配置寄存器的当时点亮一个灯，下面第二个图是配置库函数的方式点亮一个灯。
 ![image](https://github.com/user-attachments/assets/95e716e9-2ab0-4937-acb6-34d8a9048d91)
+
 
 
 
